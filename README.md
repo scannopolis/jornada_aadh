@@ -11,3 +11,17 @@ Sin embargo, las dificultades que muchas instituciones tienen para iniciar proye
 ¿De qué manera las humanidades digitales pueden ayudar y fomentar la digitalización y el acceso abierto a los acervos? ¿Cómo fomentar prácticas abiertas en el campo de las humanidades? ¿Cómo comunicar mejor los resultados de investigación de las humanidades digitales? 
 
 Estas serán algunas de las preguntas que buscaremos desarrollar en este webinar intensivo de un día organizado por OpenGLAM y la Asociación Argentina de Humanidades Digitales. Para ello, hemos convocado a representantes de todo el mundo trabajando en diversos proyectos en la intersección del trabajo con colecciones y el acceso abierto. 
+
+# 4 September 2019. Online webinar: Digital Humanities, Cultural Heritage and Open Access
+ 
+For several decades, cultural institutions who had started a pioneering work in the field of digital technologies began to digitize their collections. Although they had initially started as preservation projects, the emergence of internet helped in expanding access to these collections.
+ 
+Along with these new digital collections, more and more digital humanities projects began to emerge. Many of these projects work with collections from cultural institutions as raw material. What practices do these projects follow? What technologies and methodologies do they use? What are their experiences when approaching the collections preserved by cultural heritage institutions?
+ 
+The intersection of the digital humanities and open access in cultural heritage is now more relevant than ever. The availability of high quality materials, the possibility of free reuse, radically affects the way in which research is carried out, and relationships that can be discovered in the materials. Also, artificial intelligence and the multiple applications of technologies such as Wikidata, open a promising field for the digital humanities.
+ 
+However, the difficulties that many institutions have in initiating digitization projects or opening their collections limit the opportunities offered by digital technologies. The crisis of the humanities, scarce budgets, and a culture based on the exaltation of print and monographic publication, directly impacts on their ability to expand the field and explore new relationships. Finally, the lack of awareness about copyright laws affects the ability to disseminate and reuse these collections.
+ 
+How can the digital humanities help and encourage digitization and open access to collections? How can they promote open practices in the field of humanities? How can they better communicate the research results of the digital humanities?
+ 
+These will be some of the questions we will seek to answer in this intensive one-day webinar. To do this, we have convened representatives from around the world working on various projects at the intersection of work with collections and open access.
