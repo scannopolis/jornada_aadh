@@ -1,4 +1,4 @@
-# Jornada online: Humanidades digitales, patrimonio cultural y acceso abierto
+# 4 de septiembre de 2019. Jornada online: Humanidades digitales, patrimonio cultural y acceso abierto
 
 Desde hace varias décadas, las instituciones culturales pioneras en materia de tecnologías digitales comenzaron a digitalizar sus acervos. Aunque inicialmente fueron pensados como proyectos de resguardo de los materiales, con la aparición de Internet estos proyectos terminaron sirviendo para ampliar el acceso a las colecciones. 
 
@@ -10,4 +10,4 @@ Sin embargo, las dificultades que muchas instituciones tienen para iniciar proye
 
 ¿De qué manera las humanidades digitales pueden ayudar y fomentar la digitalización y el acceso abierto a los acervos? ¿Cómo fomentar prácticas abiertas en el campo de las humanidades? ¿Cómo comunicar mejor los resultados de investigación de las humanidades digitales? 
 
-Estas serán algunas de las preguntas que buscaremos desarrollar en este webinar intensivo de un día organizado por OpenGLAM Creative Commons y la Asociación Argentina de Humanidades Digitales. Para ello, hemos convocado a representantes de todo el mundo trabajando en diversos proyectos en la intersección del trabajo con colecciones y el acceso abierto. 
+Estas serán algunas de las preguntas que buscaremos desarrollar en este webinar intensivo de un día organizado por OpenGLAM y la Asociación Argentina de Humanidades Digitales. Para ello, hemos convocado a representantes de todo el mundo trabajando en diversos proyectos en la intersección del trabajo con colecciones y el acceso abierto. 
