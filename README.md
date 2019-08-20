@@ -1,4 +1,4 @@
-# Humanidades digitales, patrimonio cultural y acceso abierto
+# Jornada online: Humanidades digitales, patrimonio cultural y acceso abierto
 
 Desde hace varias décadas, las instituciones culturales pioneras en materia de tecnologías digitales comenzaron a digitalizar sus acervos. Aunque inicialmente fueron pensados como proyectos de resguardo de los materiales, con la aparición de Internet estos proyectos terminaron sirviendo para ampliar el acceso a las colecciones. 
 
