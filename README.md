@@ -12,6 +12,10 @@ Sin embargo, las dificultades que muchas instituciones tienen para iniciar proye
 
 Estas serán algunas de las preguntas que buscaremos desarrollar en este webinar intensivo de un día organizado por OpenGLAM y la Asociación Argentina de Humanidades Digitales. Para ello, hemos convocado a representantes de todo el mundo trabajando en diversos proyectos en la intersección del trabajo con colecciones y el acceso abierto. 
 
+## Links y horarios de las videconferencias
+
+Llegan pronto!
+
 # 4 September 2019. Online webinar: Digital Humanities, Cultural Heritage and Open Access
  
 For several decades, cultural institutions who had started a pioneering work in the field of digital technologies began to digitize their collections. Although they had initially started as preservation projects, the emergence of internet helped in expanding access to these collections.
@@ -25,3 +29,7 @@ However, the difficulties that many institutions have in initiating digitization
 How can the digital humanities help and encourage digitization and open access to collections? How can they promote open practices in the field of humanities? How can they better communicate the research results of the digital humanities?
  
 These will be some of the questions we will seek to answer in this intensive one-day webinar. To do this, we have convened representatives from around the world working on various projects at the intersection of work with collections and open access.
+
+## Links & times for the videoconferences 
+
+Coming soooooon!
