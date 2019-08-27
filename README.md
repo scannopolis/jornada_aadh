@@ -15,13 +15,21 @@ Estas serán algunas de las preguntas que buscaremos desarrollar en este webinar
 ## Links, panelistas y horarios de las videconferencias
 
 Micah Vandegrift:	A More Open Humanities - Documentation of/and Evaluation in the Immersive Scholar project
+
 Wouter Schallier:	From Open Access to Open Science: innovation in scholarly communication
+
 Daniela Schütte:	Digital collections of the National Library of Chile: Approaches to Digital Humanities from a library
+
 Albert Palacios:	From Digital Collection to Digital Scholarship: Creating Collections as Data for Teaching and Research
+
 Amalia Skarlatou Levi:	Digital Humanities as Mindfulness: Minding the Gaps, Mending the Gaps
+
 Silvia Gutiérrez:	Ok, you're open, do they see your stuff? Is it useful?, here are three stratetigies Academic Libraries could profit from
+
 German Camilo Martinez Penaloza:	Activando el archivo: Experiencia con Omeka Classic para archivos digitales de artes visuales en Colombia
+
 Clara M. Cantón:	PoeMAS: patrimonio lierario y sonoro español
+
 Ana Torres Terrones:	Documentos en la Mira. Visualización de Datos del Archivo Mariátegui
 
 # 4 September 2019. Online webinar: Digital Humanities, Cultural Heritage and Open Access
@@ -38,13 +46,22 @@ How can the digital humanities help and encourage digitization and open access t
  
 These will be some of the questions we will seek to answer in this intensive one-day webinar. To do this, we have convened representatives from around the world working on various projects at the intersection of work with collections and open access.
 
-## Links & times for the videoconferences 
+## Links, panelists & times for the videoconferences 
+
 Micah Vandegrift:	A More Open Humanities - Documentation of/and Evaluation in the Immersive Scholar project
+
 Wouter Schallier:	From Open Access to Open Science: innovation in scholarly communication
+
 Daniela Schütte:	Digital collections of the National Library of Chile: Approaches to Digital Humanities from a library
+
 Albert Palacios:	From Digital Collection to Digital Scholarship: Creating Collections as Data for Teaching and Research
+
 Amalia Skarlatou Levi:	Digital Humanities as Mindfulness: Minding the Gaps, Mending the Gaps
+
 Silvia Gutiérrez:	Ok, you're open, do they see your stuff? Is it useful?, here are three stratetigies Academic Libraries could profit from
+
 German Camilo Martinez Penaloza:	Activando el archivo: Experiencia con Omeka Classic para archivos digitales de artes visuales en Colombia
+
 Clara M. Cantón:	PoeMAS: patrimonio lierario y sonoro español
+
 Ana Torres Terrones:	Documentos en la Mira. Visualización de Datos del Archivo Mariátegui
