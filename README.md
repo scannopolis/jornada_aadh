@@ -14,23 +14,49 @@ Estas serán algunas de las preguntas que buscaremos desarrollar en este webinar
 
 ## Links, panelistas y horarios de las videconferencias
 
-Micah Vandegrift:	A More Open Humanities - Documentation of/and Evaluation in the Immersive Scholar project
+### Panel 1, 10 AM Buenos Aires: https://zoom.us/j/951365521 
 
-Wouter Schallier:	From Open Access to Open Science: innovation in scholarly communication
+Silvia Gutiérrez:	Ok, you're open, do they see your stuff? Is it useful?, here are three strategies Academic Libraries could profit from
 
-Daniela Schütte:	Digital collections of the National Library of Chile: Approaches to Digital Humanities from a library
+Carla Colombati (University of Teramo):	Communities4Heritage: Abruzzo's cases study
 
-Albert Palacios:	From Digital Collection to Digital Scholarship: Creating Collections as Data for Teaching and Research
+Daniela Zalloco (Min de Educación Argentina):	Educación y patrimonio: la experiencia de la Red de Escuelas Asociadas a la UNESCO en Argentina
 
-Amalia Skarlatou Levi:	Digital Humanities as Mindfulness: Minding the Gaps, Mending the Gaps
+### Panel 2, 11 AM Buenos Aires: https://zoom.us/j/992455337
 
-Silvia Gutiérrez:	Ok, you're open, do they see your stuff? Is it useful?, here are three stratetigies Academic Libraries could profit from
+German Camilo Martinez Penaloza (Universidad de Los Andes, Colombia): Activando el archivo: Experiencia con Omeka Classic para archivos digitales de artes visuales en Colombia
 
-German Camilo Martinez Penaloza:	Activando el archivo: Experiencia con Omeka Classic para archivos digitales de artes visuales en Colombia
+Clara M. Cantón (UNED, España)	PoeMAS: patrimonio lierario y sonoro español
 
-Clara M. Cantón:	PoeMAS: patrimonio lierario y sonoro español
+Ricardo Pimenta (IBICT, Brasil)	
 
-Ana Torres Terrones:	Documentos en la Mira. Visualización de Datos del Archivo Mariátegui
+### Panel 3, 12 PM Buenos Aires: https://zoom.us/j/918019419
+
+Alex Gil (UNiversity of Columbia, USA)	
+
+Alex Galarza (University of Haverford)	
+
+Mauricio Vidal Genta (Wikimedia Argentina)	Proyecto de digitalización de Wikimedia Argentina
+
+Ana Torres Terrones (Archivo Mariátegui)	Documentos en la Mira. Visualización de Datos del Archivo Mariátegui
+
+### Panel 4, 1 PM Buenos Aires: https://zoom.us/j/271685596
+
+Daniela Schütte (Bib Nacional de Chile):	Digital collections of the National Library of Chile: Approaches to Digital Humanities from a library.
+
+Albert Palacios (LLILAS Benson Latin American Studies and Collections/U of texas):	From Digital Collection to Digital Scholarship: Creating Collections as Data for Teaching and Research
+
+Rebecca Kahn (Humboldt Institute for Internet and Society.)	
+
+### Panel 5, 2 PM Buenos Aires: https://zoom.us/j/925231504
+
+Ernesto Priego  (City University of London, UK):	Open Access Where There Was None: Insights from a Humanities Researcher-led OA Journal
+
+Thomas Padilla (University of Nevada):	Collections as Data: Part to Whole 
+
+Micah Vandegrift (U. of North Carolina, USA):	A More Open Humanities - Documentation of/and Evaluation in the Immersive Scholar project
+
+Wouter Schallier (Bib Santa Cruz, CEPAL Chile):	From Open Access to Open Science: innovation in scholarly communication
 
 # 4 September 2019. Online webinar: Digital Humanities, Cultural Heritage and Open Access
  
