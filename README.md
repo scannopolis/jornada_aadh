@@ -46,6 +46,8 @@ Daniela Schütte (Bib Nacional de Chile):	Digital collections of the National Li
 
 Albert Palacios (LLILAS Benson Latin American Studies and Collections/U of texas):	From Digital Collection to Digital Scholarship: Creating Collections as Data for Teaching and Research
 
+Amalia Skarlatou Levi:	Digital Humanities as Mindfulness: Minding the Gaps, Mending the Gaps
+
 Rebecca Kahn (Humboldt Institute for Internet and Society.)	
 
 ### Panel 5, 2 PM Buenos Aires: https://zoom.us/j/925231504
@@ -81,8 +83,6 @@ Wouter Schallier:	From Open Access to Open Science: innovation in scholarly comm
 Daniela Schütte:	Digital collections of the National Library of Chile: Approaches to Digital Humanities from a library
 
 Albert Palacios:	From Digital Collection to Digital Scholarship: Creating Collections as Data for Teaching and Research
-
-Amalia Skarlatou Levi:	Digital Humanities as Mindfulness: Minding the Gaps, Mending the Gaps
 
 Silvia Gutiérrez:	Ok, you're open, do they see your stuff? Is it useful?, here are three stratetigies Academic Libraries could profit from
 
