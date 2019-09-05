@@ -14,7 +14,15 @@ Estas serán algunas de las preguntas que buscaremos desarrollar en este webinar
 
 ## Links, panelistas y horarios de las videconferencias
 
-### Panel 1, 10 AM Buenos Aires: https://zoom.us/j/951365521 
+### Panel 1, 7 AM Buenos Aires
+
+Satdeep Gill: Wikisource
+
+Susana Allés: Corbio
+
+Paul Flemons: Australian Museum
+
+### Panel 2, 10 AM Buenos Aires: https://zoom.us/j/951365521 
 
 Silvia Gutiérrez:	Ok, you're open, do they see your stuff? Is it useful?, here are three strategies Academic Libraries could profit from
 
@@ -22,7 +30,7 @@ Carla Colombati (University of Teramo):	Communities4Heritage: Abruzzo's cases st
 
 Daniela Zalloco (Min de Educación Argentina):	Educación y patrimonio: la experiencia de la Red de Escuelas Asociadas a la UNESCO en Argentina
 
-### Panel 2, 11 AM Buenos Aires: https://zoom.us/j/992455337
+### Panel 3, 11 AM Buenos Aires: https://zoom.us/j/992455337
 
 German Camilo Martinez Penaloza (Universidad de Los Andes, Colombia): Activando el archivo: Experiencia con Omeka Classic para archivos digitales de artes visuales en Colombia
 
@@ -30,7 +38,7 @@ Clara M. Cantón (UNED, España)	PoeMAS: patrimonio lierario y sonoro español
 
 Ricardo Pimenta (IBICT, Brasil)	
 
-### Panel 3, 12 PM Buenos Aires: https://zoom.us/j/918019419
+### Panel 4, 12 PM Buenos Aires: https://zoom.us/j/918019419
 
 Alex Gil (UNiversity of Columbia, USA)	
 
@@ -40,7 +48,7 @@ Mauricio Vidal Genta (Wikimedia Argentina)	Proyecto de digitalización de Wikime
 
 Ana Torres Terrones (Archivo Mariátegui)	Documentos en la Mira. Visualización de Datos del Archivo Mariátegui
 
-### Panel 4, 1 PM Buenos Aires: https://zoom.us/j/271685596
+### Panel 5, 1 PM Buenos Aires: https://zoom.us/j/271685596
 
 Daniela Schütte (Bib Nacional de Chile):	Digital collections of the National Library of Chile: Approaches to Digital Humanities from a library.
 
@@ -50,9 +58,7 @@ Amalia Skarlatou Levi:	Digital Humanities as Mindfulness: Minding the Gaps, Mend
 
 Rebecca Kahn (Humboldt Institute for Internet and Society.)	
 
-### Panel 5, 2 PM Buenos Aires: https://zoom.us/j/925231504
-
-Ernesto Priego  (City University of London, UK):	Open Access Where There Was None: Insights from a Humanities Researcher-led OA Journal
+### Panel 6, 2 PM Buenos Aires: https://zoom.us/j/925231504
 
 Thomas Padilla (University of Nevada):	Collections as Data: Part to Whole 
 
