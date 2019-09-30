@@ -14,7 +14,7 @@ Estas serán algunas de las preguntas que buscaremos desarrollar en este webinar
 
 ## Links, panelistas y horarios de las videconferencias
 
-### Panel 1, 7 AM Buenos Aires. Grabación disponible en YouTube: http://bit.ly/2nTsAJb
+### Panel 1. Grabación disponible en YouTube: http://bit.ly/2nTsAJb
 
 Satdeep Gill: Wikisource
 
@@ -22,7 +22,7 @@ Susana Allés: Corbio
 
 Paul Flemons: Australian Museum
 
-### Panel 2, 10 AM Buenos Aires. Grabación disponible en YouTube: http://bit.ly/2oFA0jB
+### Panel 2. Grabación disponible en YouTube: http://bit.ly/2oFA0jB
 
 Silvia Gutiérrez:	Ok, you're open, do they see your stuff? Is it useful?, here are three strategies Academic Libraries could profit from
 
@@ -38,7 +38,7 @@ Clara M. Cantón (UNED, España)	PoeMAS: patrimonio lierario y sonoro español
 
 Ricardo Pimenta (IBICT, Brasil)	
 
-### Panel 4, 12 PM Buenos Aires. Grabación disponible en YouTube: http://bit.ly/2mjJmk6
+### Panel 4. Grabación disponible en YouTube: http://bit.ly/2mjJmk6
 
 Alex Gil (UNiversity of Columbia, USA)	
 
@@ -48,7 +48,7 @@ Mauricio Vidal Genta (Wikimedia Argentina)	Proyecto de digitalización de Wikime
 
 Ana Torres Terrones (Archivo Mariátegui)	Documentos en la Mira. Visualización de Datos del Archivo Mariátegui
 
-### Panel 5, 1 PM Buenos Aires: https://zoom.us/j/271685596
+### Panel 5. Grabación disponible en YouTube: http://bit.ly/2mmW1Tx
 
 Daniela Schütte (Bib Nacional de Chile):	Digital collections of the National Library of Chile: Approaches to Digital Humanities from a library.
 
@@ -58,7 +58,7 @@ Amalia Skarlatou Levi:	Digital Humanities as Mindfulness: Minding the Gaps, Mend
 
 Rebecca Kahn (Humboldt Institute for Internet and Society.)	
 
-### Panel 6, 2 PM Buenos Aires: https://zoom.us/j/925231504
+### Panel 6. Grabación disponible en YouTube: http://bit.ly/2oxvDa2
 
 Thomas Padilla (University of Nevada):	Collections as Data: Part to Whole 
 
@@ -82,18 +82,54 @@ These will be some of the questions we will seek to answer in this intensive one
 
 ## Links, panelists & times for the videoconferences 
 
-Micah Vandegrift:	A More Open Humanities - Documentation of/and Evaluation in the Immersive Scholar project
+### Panel 1. Recording available on YouTube: http://bit.ly/2nTsAJb
 
-Wouter Schallier:	From Open Access to Open Science: innovation in scholarly communication
+Satdeep Gill: Wikisource
 
-Daniela Schütte:	Digital collections of the National Library of Chile: Approaches to Digital Humanities from a library
+Susana Allés: Corbio
 
-Albert Palacios:	From Digital Collection to Digital Scholarship: Creating Collections as Data for Teaching and Research
+Paul Flemons: Australian Museum
 
-Silvia Gutiérrez:	Ok, you're open, do they see your stuff? Is it useful?, here are three stratetigies Academic Libraries could profit from
+### Panel 2. Recording available on YouTube: http://bit.ly/2oFA0jB
 
-German Camilo Martinez Penaloza:	Activando el archivo: Experiencia con Omeka Classic para archivos digitales de artes visuales en Colombia
+Silvia Gutiérrez:	Ok, you're open, do they see your stuff? Is it useful?, here are three strategies Academic Libraries could profit from
 
-Clara M. Cantón:	PoeMAS: patrimonio lierario y sonoro español
+Carla Colombati (University of Teramo):	Communities4Heritage: Abruzzo's cases study
 
-Ana Torres Terrones:	Documentos en la Mira. Visualización de Datos del Archivo Mariátegui
+Daniela Zalloco (Min de Educación Argentina):	Educación y patrimonio: la experiencia de la Red de Escuelas Asociadas a la UNESCO en Argentina
+
+### Panel 3, 11 AM Buenos Aires: https://zoom.us/j/992455337
+
+German Camilo Martinez Penaloza (Universidad de Los Andes, Colombia): Activando el archivo: Experiencia con Omeka Classic para archivos digitales de artes visuales en Colombia
+
+Clara M. Cantón (UNED, España)	PoeMAS: patrimonio lierario y sonoro español
+
+Ricardo Pimenta (IBICT, Brasil)	
+
+### Panel 4. Recording available on YouTube: http://bit.ly/2mjJmk6
+
+Alex Gil (UNiversity of Columbia, USA)	
+
+Alex Galarza (University of Haverford)	
+
+Mauricio Vidal Genta (Wikimedia Argentina)	Proyecto de digitalización de Wikimedia Argentina
+
+Ana Torres Terrones (Archivo Mariátegui)	Documentos en la Mira. Visualización de Datos del Archivo Mariátegui
+
+### Panel 5. Recording available on YouTube: http://bit.ly/2mmW1Tx
+
+Daniela Schütte (Bib Nacional de Chile):	Digital collections of the National Library of Chile: Approaches to Digital Humanities from a library.
+
+Albert Palacios (LLILAS Benson Latin American Studies and Collections/U of texas):	From Digital Collection to Digital Scholarship: Creating Collections as Data for Teaching and Research
+
+Amalia Skarlatou Levi:	Digital Humanities as Mindfulness: Minding the Gaps, Mending the Gaps
+
+Rebecca Kahn (Humboldt Institute for Internet and Society.)	
+
+### Panel 6. Recording available on YouTube: http://bit.ly/2oxvDa2
+
+Thomas Padilla (University of Nevada):	Collections as Data: Part to Whole 
+
+Micah Vandegrift (U. of North Carolina, USA):	A More Open Humanities - Documentation of/and Evaluation in the Immersive Scholar project
+
+Wouter Schallier (Bib Santa Cruz, CEPAL Chile):	From Open Access to Open Science: innovation in scholarly communication
