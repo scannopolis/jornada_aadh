@@ -38,6 +38,8 @@ Clara M. Cantón (UNED, España)	PoeMAS: patrimonio lierario y sonoro español
 
 Ricardo Pimenta (IBICT, Brasil)	
 
+Miguel Escobar Varela. Grabación disponible en YouTube: https://youtu.be/ELGHKrhfs30
+
 ### Panel 4. Grabación disponible en YouTube: http://bit.ly/2mjJmk6
 
 Alex Gil (UNiversity of Columbia, USA)	
