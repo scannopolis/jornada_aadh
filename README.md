@@ -38,7 +38,7 @@ Clara M. Cantón (UNED, España)	PoeMAS: patrimonio lierario y sonoro español
 
 Ricardo Pimenta (IBICT, Brasil)	
 
-### Panel 4, 12 PM Buenos Aires: http://bit.ly/2mjJmk6
+### Panel 4, 12 PM Buenos Aires. Grabación disponible en YouTube: http://bit.ly/2mjJmk6
 
 Alex Gil (UNiversity of Columbia, USA)	
 
