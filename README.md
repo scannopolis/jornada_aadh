@@ -14,7 +14,7 @@ Estas serán algunas de las preguntas que buscaremos desarrollar en este webinar
 
 ## Links, panelistas y horarios de las videconferencias
 
-### Panel 1, 7 AM Buenos Aires
+### Panel 1, 7 AM Buenos Aires. Grabación disponible en YouTube: http://bit.ly/2nTsAJb
 
 Satdeep Gill: Wikisource
 
@@ -22,7 +22,7 @@ Susana Allés: Corbio
 
 Paul Flemons: Australian Museum
 
-### Panel 2, 10 AM Buenos Aires: https://zoom.us/j/951365521 
+### Panel 2, 10 AM Buenos Aires. Grabación disponible en YouTube: http://bit.ly/2oFA0jB
 
 Silvia Gutiérrez:	Ok, you're open, do they see your stuff? Is it useful?, here are three strategies Academic Libraries could profit from
 
